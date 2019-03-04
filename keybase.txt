@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rszaloki
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rszaloki.me
+  * I am rszaloki (https://keybase.io/rszaloki) on keybase.
+  * I have a public key ASCaJUUCU5v9HFxdlLEa35HCL3WNN1uf6tZz25ZXihue8Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209a254502539bfd1c5c5d94b11adf91c22f758d375b9fead673db96578a1b9ef10a",
+      "host": "keybase.io",
+      "kid": "01209a254502539bfd1c5c5d94b11adf91c22f758d375b9fead673db96578a1b9ef10a",
+      "uid": "497e04ad3377b96bef5372447685ee19",
+      "username": "rszaloki"
+    },
+    "merkle_root": {
+      "ctime": 1551698350,
+      "hash": "492f3326cc9ccb8449f929faf1809630050c09aee159b39e800e21168a992315067fb10ab57ac82f54191577c352f29df6b5b9b69e5693346bae9d5c312e02e2",
+      "hash_meta": "1d912630b88c0e27083c0cfde5f408968bc3a07d67165bcbe33a64971ddf5d9b",
+      "seqno": 4871231
+    },
+    "service": {
+      "entropy": "Vk8xaFoUg701T3uOsRXKTYUS",
+      "hostname": "rszaloki.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551698370,
+  "expire_in": 504576000,
+  "prev": "a0723642dcbf7dd768a5de8d96fd0adf51f970ef1e8b350607378b82a9acf22e",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmiVFAlOb/RxcXZSxGt+Rwi91jTdbn+rWc9uWV4obnvEKp3BheWxvYWTESpcCC8QgoHI2Qty/fddopd6Nlv0K31H5cO8eizUGBzeLgqms8i7EIBmudo0y30JOB3sJGNkF4ZdpUs+xQRywq3G9Zz/KTHioAgHCo3NpZ8RAfrWrPz2ZC6yZLDqIifY3NWIX1b82T7pIn2lZN2ewLt2v4ZLjXFeEIos86Pngzz08T3Jw1QgIkatrOHDsvhA9CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFGt8cJGN6bVuAT8HtuEhynl1UoSmimYrK8oKF3Y60Kyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rszaloki
+
+==================================================================
